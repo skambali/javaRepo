@@ -8,7 +8,7 @@ public class prg1 {
 	public static void main(String args[])
 	{
 		Scanner sc = new Scanner(System.in);
-		System.out.print("Enter a string value:");
+		System.out.print("Enter a good string value:");
 		String str=sc.next();
 		System.out.print("The entered string is:"+str);
 		sc.close();
